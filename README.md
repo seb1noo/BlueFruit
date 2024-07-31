@@ -1,6 +1,6 @@
 <h1 align="center"><img src="Assets/Img/logo_bg.png" width="40px"> BlueFruit <img src="Assets/Img/logo_bg.png" width="40px"></h1>
 <p align="center">
-  <img src="https://img.shields.io/github/v/release/load-dev/BlueFruit?label=Version&color=1b00ff">
+  <img src="https://img.shields.io/github/v/release/load-dev/BlueFruit?include_prereleases&label=Version&color=1b00ff">
   <img src="https://img.shields.io/github/stars/load-dev/BlueFruit?style=flat&label=Stars&color=1b00ff">
   <img src="https://img.shields.io/github/repo-size/load-dev/BlueFruit?label=Size&color=1b00ff">
   <img src="https://img.shields.io/github/languages/top/load-dev/BlueFruit?color=1b00ff">
