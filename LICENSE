@@ -1,24 +1,33 @@
-MIT License
+BlueFruit License
 
-Copyright (c) 2024 BlueFruit, LOAD
+BlueFruit - A cybersecurity tool by LOAD
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+License Overview:
+This license governs the use of the BlueFruit tool created by LOAD ("the Creator"). By downloading, using, or modifying BlueFruit, you agree to the terms and conditions specified in this license.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Permissions:
+The following permissions are granted under this license:
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+1. Commercial Use: You may use BlueFruit for commercial purposes, provided that you do not violate the limitations stated below.
+2. Private Use: You are allowed to use BlueFruit for personal and private purposes, on your own responsibility.
 
-For more information, please visit:
-- Discord server: https://discord.gg/H3QwtfBtDx
+Use and modifications of BlueFruit are conducted at your own risk. The Creator is not responsible for any outcomes or damages resulting from your use of this tool.
+
+Limitations:
+The following restrictions apply to the use, modification, and distribution of BlueFruit:
+
+1. No Redistribution: You are not allowed to distribute BlueFruit or any modifications of it. This includes any form of sharing or publishing, whether for free or for profit.
+2. No Unauthorized Modifications: Modifications to the core functionality, branding, or structure of BlueFruit are not allowed without explicit permission from the Creator.
+3. No Patent Use: This license does not grant any rights to use BlueFruit as part of any patent applications or patent claims, whether in part or whole.
+
+Note: These limitations may be waived if explicit permission is granted by the Creator, and this permission must be confirmed by the Creator to be valid.
+
+Disclaimer:
+BlueFruit is provided "as-is," without warranty of any kind. The Creator disclaims all warranties, express or implied, including but not limited to implied warranties of merchantability, fitness for a particular purpose, and non-infringement.
+
+The use of BlueFruit is entirely at your own risk. The Creator will not be liable for any damages, including but not limited to direct, indirect, incidental, special, exemplary, or consequential damages arising in any way out of the use of BlueFruit.
+
+Contact:
+For any questions or to request permissions that bypass the limitations above, please contact the Creator (LOAD) directly.
+
+End of License
