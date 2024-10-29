@@ -1,9 +1,9 @@
 <h1 align="center"><img src="Assets/Img/logo_bg.png" width="40px"> BlueFruit <img src="Assets/Img/logo_bg.png" width="40px"></h1>
 <p align="center">
-  <img src="https://img.shields.io/github/v/release/load-dev/BlueFruit?include_prereleases&label=Version&color=1b00ff">
-  <img src="https://img.shields.io/github/stars/load-dev/BlueFruit?style=flat&label=Stars&color=1b00ff">
-  <img src="https://img.shields.io/github/repo-size/load-dev/BlueFruit?label=Size&color=1b00ff">
-  <img src="https://img.shields.io/github/languages/top/load-dev/BlueFruit?color=1b00ff">
+  <img src="https://img.shields.io/github/v/release/seb1noo/BlueFruit?include_prereleases&label=Version&color=1b00ff">
+  <img src="https://img.shields.io/github/stars/seb1noo/BlueFruit?style=flat&label=Stars&color=1b00ff">
+  <img src="https://img.shields.io/github/repo-size/seb1noo/BlueFruit?label=Size&color=1b00ff">
+  <img src="https://img.shields.io/github/languages/top/seb1noo/BlueFruit?color=1b00ff">
 </p>
 
 <h3 align="center">⭐ Don't forget to "Star" the repository ⭐</h3>
