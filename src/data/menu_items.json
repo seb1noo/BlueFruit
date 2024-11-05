@@ -1,0 +1,14 @@
+{
+    "1" : "test.py",
+    "01" : "test.py",
+    "2" : "ip-generator.py",
+    "02" : "ip-generator.py",
+    "3" : "discord-nitro-gen.py",
+    "03" : "discord-nitro-gen.py",
+    "4" : "discord-server-info.py",
+    "04" : "discord-server-info.py",
+    "5" : "discord-webhook-spam.py",
+    "05" : "discord-webhook-spam.py",
+    "6" : "discord-webhook-generator.py",
+    "06" : "discord-webhook-generator.py"
+}
