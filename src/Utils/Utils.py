@@ -16,11 +16,28 @@
 #   ANY USE OF THIS SCRIPT, WITHOUT PERMISSION IS BANNABLE OFFENSE AND REASON FOR LICENSE PROBLEMS!
 # <=======================================================================>
 
+import os
+import subprocess
+def ModuleInstall(module):
+    """Installs module
+
+    Args:
+        module (str): Module name to install
+    """
+    subprocess.check_call(['pip', 'install', module])
+
+def ModuleUninstall(module):
+    """Uninstalls module
+
+    Args:
+        module (str): Module name to uninstall
+    """
+    subprocess.check_call(['pip', 'uninstall', module])
+
 from .Config import *
 from .Colors import *
 try:
     import ctypes
-    import subprocess
     import os
     import readchar
     import time
@@ -38,9 +55,12 @@ try:
     import tempfile
     import string
 except Exception as e:
-    import os
-    print(f"[x] | Error Module (Restart Setup): {e}")
-    os.system("pause")
+    ModuleInstall("readchar")
+    ModuleInstall("requests")
+    if sys.platform.startswith("win"):
+        os.system("cls")
+    elif sys.platform.startswith("linux"):
+        os.system("clear")
 
 # [ ! ] PRIORITY FUNCTIONS
 # (these functions are used in utils)
@@ -73,22 +93,6 @@ def time_day_hour_prefix(): return f"{RED}[ {WHITE}{current_time_day_hour()} {RE
 bluesplittingline = f"———————————————————————————————————————————————————————————————————————————————————————————————————————————"
 
 # FUNCTIONS
-
-def ModuleInstall(module):
-    """Installs module
-
-    Args:
-        module (str): Module name to install
-    """
-    subprocess.check_call(['pip', 'install', module])
-
-def ModuleUninstall(module):
-    """Uninstalls module
-
-    Args:
-        module (str): Module name to uninstall
-    """
-    subprocess.check_call(['pip', 'uninstall', module])
     
 def MenuInput():
     """Makes input for main menu of BlueFruit

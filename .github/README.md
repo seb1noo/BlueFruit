@@ -43,7 +43,7 @@ BlueFruit is developed exclusively for **educational purposes** and is meant for
 ## 🔗 Credits
 
 - [Discord Support](https://discord.gg/H3QwtfBtDx)
-- **Creator**: LOAD (load-dev)
+- **Creator**: LOAD (seb1noo)
 - **Current Version**: `v1.0`
 
 --- 
@@ -51,4 +51,4 @@ BlueFruit is developed exclusively for **educational purposes** and is meant for
 ### Note
 BlueFruit is an ongoing project. Keep an eye out for regular updates and new features!
 
---- 
+---
