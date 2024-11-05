@@ -23,7 +23,7 @@ Slow(logo_banner)
 
 def CheckOutdated():
     data = requests.get(version_check).json()
-    if data["status"] == "404":
+    if "status" in data and data["status"] == "404":
         return f"{RED}[ {BRIGHT_RED}CORRUPTED OR BETA {RED}]"
     else:
         tg_nm = False
