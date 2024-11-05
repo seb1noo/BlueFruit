@@ -116,7 +116,7 @@ def MainMenuPrint(ResetWindow: bool = False):
                     ResetMenu()
 
 data = requests.get(version_check).json()
-if data["status"] == "404":
+if "status" in data and data["status"] == "404":
     Title("Warning")
     PrintError("You are using either corrupted version or version in Beta.")
     EnterToContinue()
